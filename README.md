@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,cmake,css,cypress,debian&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=]discord,bots,django,docker,dotnet&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,flask&perline=12)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitla,gmail,gherkin,go,gradle&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,gmail,gherkin,go,gradle&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=godot,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kali,kotlin&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,lua,md,mastodon,materialui&perline=12)](https://skillicons.dev)
