@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,azure&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cs,cpp&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,cmake,css,cypress,debian&perline=12)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=]discord,bot,django,docker,dotnet&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,django,docker,dotnet&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,flask&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,gmail&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=graphql,heroku,html&perline=12)](https://skillicons.dev)
