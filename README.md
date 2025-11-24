@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&width=435&lines=Hi%2C+Brut3burg3r+here+%F0%9F%91%8B;Building+cool+things+with+code)](https://git.io/typing-svg)
+
+
 # Skillsets
 
 [![My Skills](https://skillicons.dev/icons?i=angular,apollo&perline=12)](https://skillicons.dev)
