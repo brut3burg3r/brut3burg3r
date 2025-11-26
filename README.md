@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&width=435&lines=Hi%2C+Brut3burg3r+here+%F0%9F%91%8B;Building+cool+things+with+code;I+break+things+so+you+don%E2%80%99t+have+to+%F0%9F%98%84)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bug+Bounty+rookie+diving+into+real-world+security;Bridging+the+gap+between+development+and+security+research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&width=435&lines=Hi%2C+Brut3burg3r+here+%F0%9F%91%8B;Building+cool+things+with+code;I+break+things+so+you+don%E2%80%99t+have+to+%F0%9F%98%84;Bug+Bounty+rookie+diving+into+real-world+security;Bridging+the+gap+between+development+and+security+research)](https://git.io/typing-svg)
 
 # Skillsets
 
